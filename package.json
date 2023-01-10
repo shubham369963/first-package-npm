@@ -1,0 +1,19 @@
+{
+  "name": "shubham",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000f\u0000i\u0000r\u0000s\u0000t\u0000-\u0000p\u0000a\u0000c\u0000k\u0000a\u0000g\u0000e\u0000-\u0000n\u0000p\u0000m\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubham369963/first-package-npm.git"
+  },
+  "author": "shubham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubham369963/first-package-npm/issues"
+  },
+  "homepage": "https://github.com/shubham369963/first-package-npm#readme"
+}
